@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">to do list app</string>
+    <string name="tasks">TASKS</string>
+    <string name="new_task">NEW TASK</string>
+    <string name="save">SAVE</string>
+    <string name="login">Log in</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+</resources>
